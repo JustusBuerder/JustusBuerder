@@ -1,8 +1,10 @@
-### Hi there 👋
-# I´m <span style="color:#FF5733">Justus</span>
+### Hi there 👋  
+# I'm Justus ⚽🧠
 
-I´m currently working on my bachelor thesis. I´m going to build a model which will predict the best possible order for a penalty shoot out. 
+🎓 I'm currently working on my **bachelor thesis**.  
+🚀 I'm building a model that predicts the **best possible order for a penalty shootout**.
 
-If you have any questions or suggestions for the model don´t hesitate to contact me :wink:
+📬 If you have any **questions or suggestions**, don't hesitate to contact me! 😉  
 
-
+![Status](https://img.shields.io/badge/Thesis-In%20Progress-blue)
+![Focus](https://img.shields.io/badge/Topic-Penalty%20Order%20Prediction-brightgreen)
