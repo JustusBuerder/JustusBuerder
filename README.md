@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I´m Justus and i´m currently working on my bachelor thesis.
+I´m going to build a model which will predict the best possible order for a penalty shoot out. 
+
+If you have any questions or suggestions for the model don´t hesitate to contact me ;)
+
 <!--
 **JustusBuerder/JustusBuerder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
